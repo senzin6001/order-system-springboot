@@ -35,16 +35,16 @@ This application is designed to manage B2B order and shipment processes with inv
 
 ## 📁 ディレクトリ構成（予定） / Project Structure (planned)
 
-src/
-├── main/
-│ ├── java/
-│ │ └── com/example/ordersystem/
-│ └── resources/
-│ ├── application.yml
-│ └── ...
-├── test/
-└── docs/
-└── requirement.md
+src/  
+├── main/  
+│ ├── java/  
+│ │ └── com/example/ordersystem/  
+│ └── resources/  
+│ ├── application.yml  
+│ └── ...  
+├── test/  
+└── docs/  
+└── requirement.md  
 
 ---
 
