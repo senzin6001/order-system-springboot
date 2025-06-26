@@ -34,7 +34,7 @@ This application is designed to manage B2B order and shipment processes with inv
 ---
 
 ## 📁 ディレクトリ構成（予定） / Project Structure (planned)
-
+```
 src/  
 ├── main/  
 │ ├── java/  
@@ -45,7 +45,7 @@ src/
 ├── test/  
 └── docs/  
     └── requirement.md  
-
+```
 ---
 
 ## 📄 要件定義書 / Requirement Document
